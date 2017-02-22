@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "86CCDA1DC9C43A75FBE55612E4924E2D6144A53E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86CCDA1DC9C43A75FBE55612E4924E2D6144A53E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "601C698C-8605-4C65-A00F-71745A203ABB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86CCDA1DC9C43A75FBE55612E4924E2D6144A53E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChallengeKinect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChallengeKinect\/ChallengeKinect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/panm111\/Challenge.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86CCDA1DC9C43A75FBE55612E4924E2D6144A53E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/panm111\/Challenge.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86CCDA1DC9C43A75FBE55612E4924E2D6144A53E"
+    }
+  ]
+}
